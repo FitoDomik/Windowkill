@@ -1,0 +1,9 @@
+{
+	"name": "kitty",
+	"author": "torcado",
+	"center": {
+		"x": 30,
+		"y": 8
+	},
+	"scale": 3
+}

@@ -1,0 +1,22 @@
+{
+	"name": "pixel",
+	"author": "keestak",
+    "frameWidths": {
+        "left": 4,
+        "right": 4,
+        "top": 34,
+        "bottom": 4
+    },
+    "closeExpand": 0,
+    "titleBarHeight": 32,
+    "titleCentered": false,
+    "titleColor": "#000000",
+    "iconOffset": {
+        "x": 4,
+        "y": -7
+    },
+    "controlsOffset": {
+        "x": 4,
+        "y": -4
+    }
+}

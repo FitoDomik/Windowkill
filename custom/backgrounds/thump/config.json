@@ -1,0 +1,6 @@
+{
+	"name": "thump",
+	"author": "torcado",
+	"shader_composite": true,
+	"shader_audio": true
+}
