@@ -7,6 +7,7 @@
 ```bash
 git clone https://github.com/FitoDomik/Windowkill.git Windowkill-clone
 
+```
 
 В игре еще есть локальный мультиплеер и моды. Приятной игры)
 
